@@ -1,0 +1,12 @@
+git checkout principal
+git pull origin principal
+git checkout maria 
+añado imagen
+git add .
+git commit m "mesaje" 
+git push origin maria
+git checkout principal
+git pull origin principal
+git merge maria
+(:q )
+git push origin principal
